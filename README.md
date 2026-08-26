@@ -2,9 +2,11 @@
 
 An immersive, scroll-driven journey through the Solar System.
 
-**Solar Atlas** transforms a single 3D sphere into all eight planets as the user scrolls through the experience. Built with **Three.js**, **GSAP**, **ScrollTrigger**, and **Vanilla JavaScript**, the project combines interactive 3D rendering, smooth animations, planetary transitions, and storytelling into one continuous web experience.
+## 🌐 Live Demo
 
-## Live Demo: **solar-atlas-sb22.vercel.app**
+🚀 **Explore Solar Atlas live:** [solar-atlas-sb22.vercel.app](https://solar-atlas-sb22.vercel.app/)
+
+**Solar Atlas** transforms a single 3D sphere into all eight planets as the user scrolls through the experience. Built with **Three.js**, **GSAP**, **ScrollTrigger**, and **Vanilla JavaScript**, the project combines interactive 3D rendering, smooth animations, planetary transitions, and storytelling into one continuous web experience.
 
 ## ✨ Features
 
@@ -212,5 +214,6 @@ Passionate about Web Development, Interactive Experiences, and Creative Technolo
 
 ⭐ If you like this project, consider giving the repository a star!
 
-**Explore the universe. One scroll at a time.** 🌌
+🌐 **Live Demo:** [solar-atlas-sb22.vercel.app](https://solar-atlas-sb22.vercel.app/)
 
+**Explore the universe. One scroll at a time.** 🌌
